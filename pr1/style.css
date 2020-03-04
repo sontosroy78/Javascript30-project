@@ -12,6 +12,13 @@ img{
 .h1{
     color: var(--base);
 }
+h3{
+    color: aqua;
+    line-height: 0.5;
+}
+span{
+    color: white;
+}
 
 body{
     text-align: center;
